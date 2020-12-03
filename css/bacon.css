@@ -1,0 +1,30 @@
+/*************Tag selectors**************/
+
+h1:hover{
+  background-color: green;
+  font-size: 100px;
+  color:#00008b
+}
+img:hover{
+  background-color: gold
+
+}
+
+/*************Class selectoRS*************/
+
+
+.bacon{
+  background-color: green;
+}
+.watermelon_1f349{
+  background-color: red;
+}
+
+.circular{
+  border-radius: 100%;
+}
+h1{
+  background-color: grey;
+  font-size: 100px;
+  color:blue;
+}
